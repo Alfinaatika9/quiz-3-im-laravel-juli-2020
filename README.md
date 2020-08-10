@@ -1,4 +1,4 @@
-# Quiz 3 
+ # Quiz 3 
 
 ## 0. Setup (5 poin)
 Repositori ini dibangun dengan Laravel versi 6.02 ke atas. Setelah melakukan fork dan clone dari repositori ini, lakukanlah langkah-langkah di bawah ini untuk menjalankan project. 
